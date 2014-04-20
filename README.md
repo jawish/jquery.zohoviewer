@@ -1,4 +1,4 @@
-Query plugin that automatically embeds the ZOHO viewer for viewing the doc, docx, xls, xlsx, ppt, pptx, pps, odt, ods, odp, sxw, sxc, sxi, wpd, pdf, rtf, txt, html, csv, tsv files it supports linked to by anchor tags.
+jQuery plugin that automatically embeds the ZOHO viewer for viewing the doc, docx, xls, xlsx, ppt, pptx, pps, odt, ods, odp, sxw, sxc, sxi, wpd, pdf, rtf, txt, html, csv, tsv files it supports linked to by anchor tags.
 
 The ZOHO Viewer is an embeddable browser-based viewer that requires only a URL to a file available online. This, just like Google Docs Viewer, bypasses the need for users to have compatible software on their machines for those file types and displays the document right in the browser.
 
